@@ -19,7 +19,7 @@ avenir lt std 45 book  --> body
 terrykart logo size:
 
 width = 200px;
-height = 40px;
+height = 45px;
 
 
 font size:
